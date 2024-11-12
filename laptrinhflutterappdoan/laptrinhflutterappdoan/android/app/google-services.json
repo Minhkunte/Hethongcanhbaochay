@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1086917093942",
+    "firebase_url": "https://appflutterdoan5-default-rtdb.firebaseio.com",
+    "project_id": "appflutterdoan5",
+    "storage_bucket": "appflutterdoan5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086917093942:android:f5add0e6164170ff608697",
+        "android_client_info": {
+          "package_name": "com.example.laptrinhflutterappdoan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VM8r4iPxo6gHVBZ7DfAFeyLxznDyZyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
